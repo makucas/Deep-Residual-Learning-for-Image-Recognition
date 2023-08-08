@@ -1,6 +1,6 @@
 # Learning for Image Recognition
 
-> Projeto desenvolvido durante a disciplina de Redes Neurais Profundas ministrada pelo professor Lucas Araújo Pereira na Universidade Federal de Goiás. Implementação em Python usando o Pytorch.
+> Projeto desenvolvido durante a disciplina de Redes Neurais Profundas ministrada pelo professor Lucas Araújo Pereira na Universidade Federal de Goiás. Implementação em Python utilizando Pytorch.
 
 ## Índice
 
