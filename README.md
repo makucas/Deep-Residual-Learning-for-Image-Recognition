@@ -12,6 +12,7 @@
 
 ## Visão Geral
 
+* O objetivo do projeto era de replicar os experimentos realizados no paper citado.
 * A premissa do autor é de que conforme se aumenta a profundidade de uma rede plana, a taxa de erro tende a aumentar dada a degradação dos gradientes, o que é um problema, uma vez que redes mais profundas seriam capazes de extrair mais features.
 * Dado essa problemática, ele introduz sua solução, as Redes Residuais, redes que permitem contornar o problema da degradação através de conexões especiais, e como é possível ver na imagem abaixo, as redes propostas(direita) apresentam comportamento inverso as redes planas(esquerda). 
 
